@@ -1,0 +1,11 @@
+numpy==1.26.4
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+google-generativeai==0.8.2
+python-dotenv==1.0.1
+chardet==5.2.0
+qdrant-client==1.11.1
+langchain==0.3.4
+PyMuPDF==1.24.7
+rank-bm25==0.2.2
+argparse==1.4.0
